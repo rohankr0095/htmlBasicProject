@@ -1,0 +1,14 @@
+._body-color
+{
+background-color: #0ff;
+}
+h1{
+    text-align: center;
+}
+._div-body
+{
+    background-color: #eee;
+    text-align: center;
+    margin:auto;
+    width:50%;
+}
