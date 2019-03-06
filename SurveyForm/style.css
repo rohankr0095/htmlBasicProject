@@ -10,9 +10,29 @@ h1{
     background-color: #eee;
     text-align: center;
     margin:auto;
-    width:50%;
+    width:80%;
 }
 .button
 {
     background-color: #0ff;
+}
+
+._radio-outer-div{
+    display: flex;
+    justify-content: center;
+}
+
+._radio-inner-div{
+    display:flex;
+    flex-direction: column;
+    text-align: justify;
+}
+._checkbox-outer-div{
+    display: flex;
+    justify-content: center;
+}
+._checkbox-inner-div{
+    display:flex;
+    flex-direction: column;
+    text-align: justify;
 }
